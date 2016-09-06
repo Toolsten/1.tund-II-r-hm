@@ -3,3 +3,5 @@
 Sten
 
 Koera nimi:peeter
+
+Kassi nimi:Artur
